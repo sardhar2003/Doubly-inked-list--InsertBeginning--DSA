@@ -1,1 +1,1 @@
-# Doubly-inked-list--InsertBeginning--DSA
+# Doubly-Linked-list--InsertBeginning--DSA
